@@ -25,6 +25,8 @@
 login/
 ├── login_page_simple.html    # 登录页面简化版
 ├── form_wechat_login.html    # 登录页面（表单+微信二维码登录）
+├── reset-password.html       # 重置密码页面
+├── register.html             # 注册页面
 └── README.md                 # 项目说明文档
 ```
 
@@ -34,11 +36,19 @@ login/
 ## 登录页面（表单+微信二维码登录）
 ![登录页面（表单+微信二维码登录）](image/form_wechat_login.png)
 
+## 重置密码页面
+![重置密码页面](image/reset-password.png)
+
+## 注册页面
+![注册页面](image/register.png)
+
 ## 快速开始
 
 1. 直接双击 `form_wechat_login.html` 文件在浏览器中打开（表单+微信二维码登录版本）
 2. 或双击 `login_page_simple.html` 文件打开简化版登录页面
-2. 或者使用本地服务器（推荐用于开发）：
+3. 双击 `reset-password.html` 文件打开重置密码页面
+4. 双击 `register.html` 文件打开注册页面
+5. 或者使用本地服务器（推荐用于开发）：
    ```bash
    # 使用 Python 内置服务器
    python -m http.server 8000
