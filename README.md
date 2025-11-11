@@ -29,10 +29,10 @@ login/
 ```
 
 ## 登录页面简化版
-![登录页面简化版](image\login_page_simple.png)
+![登录页面简化版](image/login_page_simple.png)
 
 ## 登录页面（表单+微信二维码登录）
-![登录页面（表单+微信二维码登录）](image\form_wechat_login.png)
+![登录页面（表单+微信二维码登录）](image/form_wechat_login.png)
 
 ## 快速开始
 
